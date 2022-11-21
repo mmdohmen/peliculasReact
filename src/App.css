@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  font-size: 3em Georgia, serif;
+  color: white;
+  /* sombreado
+     https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
+  */
+  text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+  
+}
